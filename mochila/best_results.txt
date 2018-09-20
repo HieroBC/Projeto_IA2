@@ -1,0 +1,255 @@
+# IA Parameters
+population = 50  # Total Number of population .
+crossover = 25  # Number of crossover between genes.
+generation = 500  # Total Number of generations to create.
+mutation = 0.01  # Percent of mutation of between each generation.
+elitism = 0
+
+Melhor Resultado:
+Id              Nome  Peso  Volume  Valor
+ 3             Mouse    21       9     88
+ 7      Impressora3D    57      19   1980
+ 8             Fogao    77      25   1650
+ 9          Notebook    24      12   1230
+10        Smartphone    20       8    989
+11          Projetor    25      11   1222
+12         Videogame    26      13   1120
+13    Placa de Video    23      10    850
+14         Placa Mae    20       8    560
+15       Processador    19       7    999
+16        Pipoqueira    26      15    320
+19          Servidor    80      38   4532
+25            Tablet    22       9    840
+27        Carregador    19       8     80
+35             Drone    38      14   1420
+37                HD    30      15    570
+39     Livro Digital    20       9    220
+40         Televisao    62      36   2420
+42       Chrome Cast    21      11    325
+43          Roteador    23      12    148
+46  Leitor de Cartao    23      11    163
+47             Token    20       8    170
+48        Torradeira    42      10    235
+-1          Total ->   722     324  22125
+
+Melhor Resultado:
+Id             Nome  Peso  Volume  Valor
+ 7     Impressora3D    57      19   1980
+ 8            Fogao    77      25   1650
+ 9         Notebook    24      12   1230
+10       Smartphone    20       8    989
+11         Projetor    25      11   1222
+12        Videogame    26      13   1120
+13   Placa de Video    23      10    850
+14        Placa Mae    20       8    560
+15      Processador    19       7    999
+17  Fones de Ouvido    19       7    120
+19         Servidor    80      38   4532
+24          Relogio    22       7    149
+25           Tablet    22       9    840
+34          Arduino    19       8    110
+35            Drone    38      14   1420
+37               HD    30      15    570
+38    Capa Notebook    19       8     96
+39    Livro Digital    20       9    220
+40        Televisao    62      36   2420
+41     Home Theater    48      32   1890
+42      Chrome Cast    21      11    325
+47            Token    20       8    170
+48       Torradeira    42      10    235
+-1         Total ->   753     325  23697
+
+Melhor Resultado:
+Id              Nome  Peso  Volume  Valor
+ 6           Headset    23      11    241
+ 7      Impressora3D    57      19   1980
+ 8             Fogao    77      25   1650
+ 9          Notebook    24      12   1230
+10        Smartphone    20       8    989
+11          Projetor    25      11   1222
+12         Videogame    26      13   1120
+14         Placa Mae    20       8    560
+15       Processador    19       7    999
+17   Fones de Ouvido    19       7    120
+19          Servidor    80      38   4532
+20           Storage    35      28   1650
+24           Relogio    22       7    149
+25            Tablet    22       9    840
+35             Drone    38      14   1420
+37                HD    30      15    570
+38     Capa Notebook    19       8     96
+39     Livro Digital    20       9    220
+41      Home Theater    48      32   1890
+42       Chrome Cast    21      11    325
+46  Leitor de Cartao    23      11    163
+47             Token    20       8    170
+49         Cafeteira    46      13    226
+-1          Total ->   712     317  22213
+
+# IA Parameters
+population = 32  # Total Number of population .
+crossover = 25  # Number of crossover between genes.
+generation = 1000  # Total Number of generations to create.
+mutation = 0.01  # Percent of mutation of between each generation.
+elitism = 0
+
+Melhor Resultado:
+Id            Nome  Peso  Volume  Valor
+ 6         Headset    23      11    241
+ 7    Impressora3D    57      19   1980
+ 9        Notebook    24      12   1230
+10      Smartphone    20       8    989
+11        Projetor    25      11   1222
+12       Videogame    26      13   1120
+13  Placa de Video    23      10    850
+14       Placa Mae    20       8    560
+15     Processador    19       7    999
+19        Servidor    80      38   4532
+20         Storage    35      28   1650
+24         Relogio    22       7    149
+25          Tablet    22       9    840
+31      Mouse Bang    21       8    125
+35           Drone    38      14   1420
+39   Livro Digital    20       9    220
+40       Televisao    62      36   2420
+41    Home Theater    48      32   1890
+42     Chrome Cast    21      11    325
+47           Token    20       8    170
+48      Torradeira    42      10    235
+49       Cafeteira    46      13    226
+-1        Total ->   714     322  23393
+
+Melhor Resultado:
+Id             Nome  Peso  Volume  Valor
+ 7     Impressora3D    57      19   1980
+ 8            Fogao    77      25   1650
+ 9         Notebook    24      12   1230
+10       Smartphone    20       8    989
+11         Projetor    25      11   1222
+12        Videogame    26      13   1120
+13   Placa de Video    23      10    850
+14        Placa Mae    20       8    560
+15      Processador    19       7    999
+17  Fones de Ouvido    19       7    120
+19         Servidor    80      38   4532
+23         Frigobar    45      30    780
+24          Relogio    22       7    149
+25           Tablet    22       9    840
+31       Mouse Bang    21       8    125
+32         Joystick    22       8     88
+35            Drone    38      14   1420
+37               HD    30      15    570
+39    Livro Digital    20       9    220
+40        Televisao    62      36   2420
+42      Chrome Cast    21      11    325
+47            Token    20       8    170
+48       Torradeira    42      10    235
+-1         Total ->   755     323  22594
+
+Melhor Resultado:
+Id            Nome  Peso  Volume  Valor
+ 6         Headset    23      11    241
+ 7    Impressora3D    57      19   1980
+ 8           Fogao    77      25   1650
+ 9        Notebook    24      12   1230
+10      Smartphone    20       8    989
+11        Projetor    25      11   1222
+12       Videogame    26      13   1120
+13  Placa de Video    23      10    850
+14       Placa Mae    20       8    560
+15     Processador    19       7    999
+19        Servidor    80      38   4532
+20         Storage    35      28   1650
+24         Relogio    22       7    149
+25          Tablet    22       9    840
+31      Mouse Bang    21       8    125
+35           Drone    38      14   1420
+40       Televisao    62      36   2420
+41    Home Theater    48      32   1890
+42     Chrome Cast    21      11    325
+47           Token    20       8    170
+48      Torradeira    42      10    235
+-1        Total ->   725     325  24597
+
+# IA Parameters
+population = 100  # Total Number of population .
+crossover = 25  # Number of crossover between genes.
+generation = 250  # Total Number of generations to create.
+mutation = 0.01  # Percent of mutation of between each generation.
+elitism = 0
+
+Melhor Resultado:
+Id             Nome  Peso  Volume  Valor
+ 7     Impressora3D    57      19   1980
+ 8            Fogao    77      25   1650
+ 9         Notebook    24      12   1230
+10       Smartphone    20       8    989
+11         Projetor    25      11   1222
+12        Videogame    26      13   1120
+13   Placa de Video    23      10    850
+14        Placa Mae    20       8    560
+15      Processador    19       7    999
+17  Fones de Ouvido    19       7    120
+19         Servidor    80      38   4532
+20          Storage    35      28   1650
+24          Relogio    22       7    149
+25           Tablet    22       9    840
+31       Mouse Bang    21       8    125
+35            Drone    38      14   1420
+37               HD    30      15    570
+39    Livro Digital    20       9    220
+40        Televisao    62      36   2420
+41     Home Theater    48      32   1890
+47            Token    20       8    170
+-1         Total ->   708     324  24706
+
+Melhor Resultado:
+Id            Nome  Peso  Volume  Valor
+ 7    Impressora3D    57      19   1980
+ 9        Notebook    24      12   1230
+10      Smartphone    20       8    989
+11        Projetor    25      11   1222
+12       Videogame    26      13   1120
+13  Placa de Video    23      10    850
+14       Placa Mae    20       8    560
+15     Processador    19       7    999
+19        Servidor    80      38   4532
+20         Storage    35      28   1650
+23        Frigobar    45      30    780
+24         Relogio    22       7    149
+25          Tablet    22       9    840
+31      Mouse Bang    21       8    125
+35           Drone    38      14   1420
+37              HD    30      15    570
+39   Livro Digital    20       9    220
+40       Televisao    62      36   2420
+41    Home Theater    48      32   1890
+42     Chrome Cast    21      11    325
+-1        Total ->   658     325  23871
+
+Melhor Resultado:
+Id            Nome  Peso  Volume  Valor
+ 6         Headset    23      11    241
+ 7    Impressora3D    57      19   1980
+ 9        Notebook    24      12   1230
+10      Smartphone    20       8    989
+11        Projetor    25      11   1222
+12       Videogame    26      13   1120
+13  Placa de Video    23      10    850
+14       Placa Mae    20       8    560
+15     Processador    19       7    999
+16      Pipoqueira    26      15    320
+19        Servidor    80      38   4532
+20         Storage    35      28   1650
+24         Relogio    22       7    149
+25          Tablet    22       9    840
+31      Mouse Bang    21       8    125
+35           Drone    38      14   1420
+37              HD    30      15    570
+39   Livro Digital    20       9    220
+40       Televisao    62      36   2420
+42     Chrome Cast    21      11    325
+43        Roteador    23      12    148
+48      Torradeira    42      10    235
+49       Cafeteira    46      13    226
+-1        Total ->   725     324  22371
